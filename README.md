@@ -1,12 +1,18 @@
 # Line-Following Wheeled Robot
 
-We are developing an awesome project.
+We are developing an awesome robotics project.
 
 ---
-The team members:
 
-- Mohamed Elshishtawy
-- Mohamed Elshishtawy
-- Mohamed Elshishtawy
-- Mohamed Elshishtawy
-- Mohamed Elshishtawy
+## Team Members
+
+- Mohamed Wagdy Elshishtawy
+- Yousef Mostafa Ahmed
+- Yousef Ashraf Abdel-Bakey
+- Abdelaziz Ahmed Abdelmonem
+- Abdelrahman Nabil
+- Mostafa Ahmed Abdallah
+- Marwan Tamer Fathy
+- Adel Ehab Adel
+- Gamal Abdelnasser Hassan
+- Shaher Ayman Sherif
