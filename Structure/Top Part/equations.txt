@@ -1,0 +1,8 @@
+﻿"carWidth"= 22cm'the car full width
+"carLong"= 32cm
+"D2@Sketch1"="carWidth"
+"D1@Sketch1"="carLong"
+"arduinoTopWidth"= 50mm'the width between nails
+"arduinoBottomWidth"= 27mm'the width between nails
+"arduinoNailsDiam"= 7mm'the nail diameter
+"D1@arduino" = "arduinoNailsDiam"
